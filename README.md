@@ -6,7 +6,10 @@
 
 <h1>balagbag ka ba??</h1>
 <p>ako to si emman</p>
-<a href="page1.html"></a>
+<p>I'm 17 yrs old turning 18 this yr I live in Bacood Tiaong Guiguinto Bulacan and Came from an inc family and I grew up inc</p>
+
+<p>My facebook profile</p>
+<a href="https://www.facebook.com/emman.vilar.3">Here's the link</a>
 
 <h1>Mga bisyo ko sa buhay</h1>  
 <p>matulog</p>
@@ -15,7 +18,7 @@
 <--hahahha!-->
 
 <h2>My handsome face</h2>
-<img src="https://scontent.fmnl3-4.fna.fbcdn.net/v/t39.30808-6/451010252_991413742477185_4116785220366632837_n.jpg" alt="facebook.com" width="200" height="300">
+<img src="https://www.facebook.com/photo" alt="facebook.com" width="200" height="300">
 
 <h1>this is heading1</h1>
 <h2></h2>
