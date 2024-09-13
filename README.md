@@ -11,14 +11,14 @@
 <p>My facebook profile</p>
 <a href="https://www.facebook.com/emman.vilar.3">Here's the link</a>
 
-<h1>Mga bisyo ko sa buhay</h1>  
+<h1>Mga bisyo ko sa buhay.</h1>  
 <p>matulog</p>
 <p>mag laro</p>
 <P>mag relapse</P>            
 <--hahahha!-->
 
 <h2>My handsome face</h2>
-<img src="https://www.facebook.com/photo" alt="facebook.com" width="200" height="300">
+<img src="https://www.facebook.com/photo/429580421_917675803184313_1228117069344594279_n.jpg" alt="smile" width="100" height="150">
 
 <h1>this is heading1</h1>
 <h2></h2>
