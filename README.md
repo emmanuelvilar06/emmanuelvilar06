@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
-<head> <title>first page bugok</title>
-</head>      
-<body>
+<html>   
+<body style="background-color:powderblue;">
+<h1 style="font-size:10px;">My Hobbies, My Likes, and Dislikes</h1>
 
 <img src="emman_face.jpg" alt="Selfie picture of a man" style="width:250px;height:250;">
 
