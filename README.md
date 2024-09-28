@@ -14,11 +14,17 @@
 <p>My facebook profile</p>
 <a href="https://www.facebook.com/emman.vilar.3">Here's the link</a>
 
-<h1>Mga bisyo ko sa buhay.</h1>  
-<p>matulog</p>
-<p>mag laro</p>
-<P>mag relapse</P>            
-<--hahahha!-->
+<h1>My Hobbies</h1>  
+<p>Sleep</p>
+
+<p>Volleyball</p>
+
+<p>Singing</p>            
+
+<p>Cooking</p>
+
+<p>Playing online games</p>
+
 
 <h1>this is heading1</h1>
 <h2></h2>
