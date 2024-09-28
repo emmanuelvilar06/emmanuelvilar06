@@ -16,7 +16,7 @@
 
 <h1>My Hobbies</h1>  
 <p>Sleep</p>
-<img src="img_cooking.jpg" alt="Picture of a man cooking" style="width:250px;height:250;">
+<img src="img_download.jpg" alt="Picture of a man sleeping" style="width:250px;height:250;">
 <p>Volleyball</p>
 <img src="img_volleyball.jpg" alt="Picture of a man playing volleyball" style="width:250px;height:250;">
 <p>Cycling</p>            
