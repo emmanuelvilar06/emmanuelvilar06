@@ -19,7 +19,7 @@
 
 <p>Volleyball</p>
 
-<p>Singing</p>            
+<p>Cycling</p>            
 
 <p>Cooking</p>
 
