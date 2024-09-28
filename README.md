@@ -16,7 +16,7 @@
 
 <h1>My Hobbies</h1>  
 <p>Sleep</p>
-
+<img src="" alt="Selfie picture of a man" style="width:250px;height:250;">
 <p>Volleyball</p>
 
 <p>Cycling</p>            
