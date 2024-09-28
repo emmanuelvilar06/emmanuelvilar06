@@ -18,7 +18,7 @@
 <--hahahha!-->
 
 <h2>My handsome face</h2>
-<img src="https://www.facebook.com/photo/429580421_917675803184313_1228117069344594279_n.jpg" alt="smile" width="100" height="150">
+<img src="" ="" style="width:250px;height:250px;">
 
 <h1>this is heading1</h1>
 <h2></h2>
