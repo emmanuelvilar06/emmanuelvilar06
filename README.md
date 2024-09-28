@@ -16,6 +16,9 @@
 <h3>My facebook profile</h3>
 <a href="https://www.facebook.com/emman.vilar.3">Here's the link</a>
 
+<h4>My gmail</h4>
+<p><a href="emmanuelvilar1106@gmail.com">Send email</a></p>
+
 <hr>
 <h1>My Hobbies</h1>  
  <h2 style="tect-align: center; border: 2px Solid DarkBlue">Sleeping</h2>
