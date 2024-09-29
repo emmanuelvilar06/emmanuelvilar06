@@ -45,7 +45,9 @@
  <p>Sunny day</p>
 
 <h1>My albums</h1>
- <img src="img_volleyball.jpg" alt="Picture of a man playing volleyball" style="width:250px;height:250;">
+ <img src="img_typeng.jpg" alt="Picture of a man playing volleyball" style="width:250px;height:250;">
+ <img src="img_selfie.jpg" alt="Picture of a man playing volleyball" style="width:250px;height:250;">
+ <img src="img_mirrorshot.jpg" alt="Picture of a man playing volleyball" style="width:250px;height:250;">
 
 
 </body>
